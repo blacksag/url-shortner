@@ -1,5 +1,12 @@
 # url-shortner
 
+## About
+It is a microservice project as required by freecodecamp. This is built using the boilerplate from [this repo](https://github.com/freeCodeCamp/boilerplate-project-urlshortener/).
+The service can be seen live at [https://prong-justice.glitch.me/](https://prong-justice.glitch.me/).
+
+### File Summary
+The main file is `server.js` while the `handler.js` contains the handler functions which in return uses the `models.js` for the Schema used in mogoDB.
+
 ## API Project: URL Shortener API
 
 ### User Stories
